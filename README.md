@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Copa do Mundo 2018</title>
+  <title>Jogadores da Copa do Mundo de 2018</title>
   <style>
     body {
       margin: 0;
@@ -121,6 +121,55 @@
     <img src="https://conteudo.imguol.com.br/c/copadomundo/2018/Imagem/16/2018/07/15/o-atacante-mbappe-beija-o-trofeu-da-copa-do-mundo-1531677311778_v2_3x4.jpg"
          alt="Mbappé em ação"
          style="height: 400px; width: 300px; border-radius: 10px; object-fit: cover;">
+  </div>
+
+  <!-- Texto e imagem de Modric, layout invertido -->
+  <div style="display: flex; flex-direction: row-reverse; align-items: flex-start; margin: 60px 40px 0 40px; gap: 40px;">
+    <div>
+      <div style="font-size: 26px; font-weight: bold; color: #000; margin-bottom: 10px;">
+        Melhor Jogador da Copa
+      </div>
+      <p style="font-size: 18px; color: #333; max-width: 600px; margin: 0;">
+        Luka Modric foi eleito o Melhor Jogador da Copa do Mundo de 2018. O meio-campista croata liderou sua seleção até a final, algo inédito para o país. Com grande visão de jogo, passes precisos e liderança, Modric se destacou em praticamente todas as partidas. Apesar da derrota na final contra a França, sua atuação durante o torneio foi reconhecida com a Bola de Ouro da FIFA.
+      </p>
+    </div>
+
+    <img src="https://omundoeumabola.blogfolha.uol.com.br/files/2018/08/Modric-2.jpg"
+         alt="Modric em ação"
+         style="height: 400px; width: 300px; border-radius: 10px; object-fit: cover;">
+  </div>
+
+  <!-- Texto e imagem de Hazard, layout invertido (imagem à direita) -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin: 10px 200px 0 40px; gap: 40px;">
+  <div>
+    <div style="font-size: 26px; font-weight: bold; color: #000; margin-bottom: 10px;">
+      Destaque da Bélgica
+    </div>
+    <p style="font-size: 18px; color: #333; max-width: 600px; margin: 0;">
+      Eden Hazard foi um dos principais jogadores da Bélgica na Copa do Mundo de 2018. Atuando como capitão, o meia-atacante brilhou com sua habilidade, dribles e liderança em campo. Conduziu a seleção belga até as semifinais, garantindo o terceiro lugar, a melhor campanha do país na história das Copas. Seu desempenho foi amplamente elogiado e consolidou sua reputação como um dos melhores jogadores do torneio.
+    </p>
+  </div>
+
+  <img src="https://ogimg.infoglobo.com.br/in/22863369-112-991/FT1086A/O-belga-Hazard-foi-um-dos-destaques-das-quartas-de-final.jpg"
+       alt="Hazard em ação"
+       style="height: 400px; width: 300px; border-radius: 10px; object-fit: cover;">
+</div>
+
+
+<!-- Texto e imagem de Grizzman, layout invertido -->
+  <div style="display: flex; flex-direction: row-reverse; align-items: flex-start; margin: 60px 40px 0 40px; gap: 40px;">
+    <div>
+      <div style="font-size: 26px; font-weight: bold; color: #000; margin-bottom: 10px;">
+        O Cérebro Ofensivo da França
+      </div>
+      <p style="font-size: 18px; color: #333; max-width: 600px; margin: 0;">
+        Antoine Griezmann foi um dos protagonistas da França na Copa do Mundo de 2018. Com atuações decisivas, marcou quatro gols e deu assistências importantes, incluindo um gol e participação direta em dois outros na final contra a Croácia. Sua inteligência tática, habilidade nas bolas paradas e liderança ofensiva foram fundamentais para a conquista do título. Griezmann terminou o torneio com a Bola de Bronze, como o terceiro melhor jogador da competição.
+      </p>
+    </div>
+
+    <img src="https://jpimg.com.br/uploads/2018/07/636672747158474847w.jpg"
+     alt="Grizzman em ação"
+     style="height: 400px; width: 300px; border-radius: 10px; object-fit: cover;">
   </div>
 
   <footer>

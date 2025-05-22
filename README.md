@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Jogadores da Copa do Mundo de 2018</title>
+  <title>Copa do Mundo 2018</title>
   <style>
     body {
       margin: 0;
@@ -172,8 +172,24 @@
      style="height: 400px; width: 300px; border-radius: 10px; object-fit: cover;">
   </div>
 
+  <!-- Texto e imagem de Neymar, layout invertido (imagem à direita) -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin: 10px 200px 0 40px; gap: 40px;">
+  <div>
+    <div style="font-size: 26px; font-weight: bold; color: #000; margin-bottom: 10px;">
+      Entre o Talento e a Polêmica: Neymar
+    </div>
+    <p style="font-size: 18px; color: #333; max-width: 600px; margin: 0;">
+      Neymar chegou à Copa de 2018 como a grande esperança do Brasil, mas não correspondeu totalmente às expectativas. Marcou dois gols e liderou em dribles, porém foi muito criticado pelas simulações exageradas. Seu desempenho foi irregular, com poucos momentos de protagonismo. A eliminação nas quartas para a Bélgica e as quedas em campo marcaram mais que seus lances de brilho. Mesmo assim, foi um dos jogadores mais ativos da seleção.
+    </p>
+  </div>
+
+   <img src="https://imagenes.elpais.com/resizer/v2/GOQ56ZN5CPVKYLLURD2LJ6ROT4.jpg?auth=fcb1c61c84ed42caf85a58186e8e2ef4095577ca88f2bdca32007fb2c79b942f&width=1960&height=1470&smart=true"
+       alt="Neymar em ação"
+       style="height: 400px; width: 300px; border-radius: 10px; object-fit: cover;">
+</div>
+
   <footer>
-    <p>&copy; 2025 - Site sobre a Copa do Mundo 2018</p>
+    <p>&copy; 2025 - Criado por Nicolas-Daniel-Matheus-Ricardo</p>
   </footer>
 
 </body>
